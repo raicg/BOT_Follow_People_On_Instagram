@@ -11,6 +11,9 @@
 # Usage:
 * needs to change image find.png if your Instagram isn't in portuguese-BR.
 
+# Run:
+ python main.py
+
 - - - -
 
 # Tested on: 
